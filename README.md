@@ -24,11 +24,11 @@ https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-
 ![first_storypage](./Images/first_storypage.png)
 
 - Total Number of Rides: 2,344.224
-- User datatypes were modified from number to percentages:
+- User data types were modified from number to percentages:
     - Occasional Renters: 81.07%
     - Subscribers: 18.93%
 - Popular Riding Days and Times: 
-    - Weekdays popular times are 8am, 5pm, and 6pm. While on weekends 10am and 7pm seems to be the most popular ones.
+    - Weekdays popular times are 8am, 5pm, and 6pm. On weekends, 10am and 7pm seem to be the most popular ones.
 - Trip Duration:
     - Trips last not much more than 30 to 45 minutes, while most of them are less than 10 min.
 
@@ -45,14 +45,14 @@ https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-
 
 ![third_storypage](./Images/third_storypage.png)
 
-- Popular Startind and Ending Points 
-    - The most popular starting points are concentrated on the same part on Manhattan, which might be due to the amount of public transportation in the area. Another factor that could be contributing is that the area might be touristy.
+- Popular Starting and Ending Points 
+    - The most popular starting points are concentrated on the same part of Manhattan, which might be due to the amount of public transportation in the area. Another factor that could be contributing is that the area might be touristy.
     - Top ending stations are located in the same area.
 
-- Avg. Trip Duration Chart:
-    - After analyzing the birthdates of the renters, it could be seen that there was a significant amount of renters age 80+ till 132. They were most likely typos on the dataset, where for example instead of typing 1990, it was typed 1890, so it was decided that the data would be filtered to show results for renters up to 80 years old and that there was still enough data left for a proper analyses.
+- Average Trip Duration Chart:
+    - After analyzing the birthdates of the renters, it could be seen that there was a significant number of renters age 80 to 132. They were most likely typos on the dataset, where for example instead of typing 1990, it was typed 1890, so it was decided that the data would be filtered to show results for renters up to 80 years old and that there was still enough data left for a proper analysis.
     - To improve the readability of the chart, birth dates were converted to display the ages instead.
-    - The peak on the age of 78 might have been due to a bike that was lost/stollen, therefore why the avg. trip duration was so long.
+    - The peak at the age of 78 might have been due to a bike that was lost/stolen, therefore why the average trip duration was so long.
     - Customers under the age of 24 were the ones with the longest average trip duration. 
 
 ### Analysis Based on Gender
@@ -72,7 +72,7 @@ https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-
 ![fifth_storypage](./Images/fifth_storypage.png)
 
 - Bike Utilization: 
-    - The size of the circle increases with the length of the trips, and the color darkens with the amount of times the bike has been checkout.
+    - The size of the circle increases with the length of the trips, and the color darkens with the amount of times the bike has been checked out.
 
 
 ## Summary
