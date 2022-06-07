@@ -7,9 +7,9 @@ The purpose of this project is to analyze New York City's citybike, to get resul
 
 # Design Solution
 
-- Import data into Tableau.
-- Create and style worksheets, dashboards, and stories in Tableau.
-- Use Tableau worksheets to display data in a professional way.
+- Import data into Tableau;
+- Create and style worksheets, dashboards, and stories using Tableau;
+- Use Tableau worksheets to display data;
 - Portray data accurately using Tableau dashboards.
 
 
