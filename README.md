@@ -24,11 +24,11 @@ https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-
 ![first_storypage](./Images/first_storypage.png)
 
 - Total Number of Rides: 2,344.224
-- User types were modified from number to percentages:
+- User datatypes were modified from number to percentages:
     - Occasional Renters: 81.07%
     - Subscribers: 18.93%
 - Popular Riding Days and Times: 
-    - Weekdays popular times are 8am, 5pm, and 6pm. While on weekends they are between 10am and 7pm. 
+    - Weekdays popular times are 8am, 5pm, and 6pm. While on weekends 10am and 7pm seems to be the most popular ones.
 - Trip Duration:
     - Trips last not much more than 30 to 45 minutes, while most of them are less than 10 min.
 
