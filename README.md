@@ -3,7 +3,7 @@ Creating visualizations using Tableau in order to analyze New York bike sharing 
 
 ## Project Overview 
 
-The purpose of this project is to analyze New York City's citybike, in order to have results that might be useful for analyzing the viability of opening a bike-share system in Des Moines, Iowa. 
+The purpose of this project is to analyze New York City's citybike, to get results that might be useful for analyzing the viability of opening a bike-share system in Des Moines, Iowa. 
 
 # Design Solution
 
