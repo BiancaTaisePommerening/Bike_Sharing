@@ -15,7 +15,7 @@ The purpose of this project is to analyze New York City's citybike, to get resul
 
 ## Results 
 
-Tableau Book with the charts, dashboards, and story can be found here:
+Tableau Book with charts, dashboards, and story can be found here:
 https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-TableauBook/Story1?publish=yes
 
 ### Overall Summary of Trips and Customers
