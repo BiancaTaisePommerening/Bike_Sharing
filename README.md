@@ -18,8 +18,8 @@ The purpose of this project is to analyze New York City's citybike, to get resul
 Tableau Book with charts, dashboards, and story can be found here:
 https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-TableauBook/Story1?publish=yes
 
-### Overall Summary of Trips and Customers
 
+### Overall Summary of Trips and Customers
 
 ![first_storypage](./Images/first_storypage.png)
 
@@ -41,12 +41,12 @@ https://public.tableau.com/app/profile/bianca.taise.pommerening/viz/Challenge14-
     - Early commute time might have increased the number of trips.
     - Evening commute and leisure time might have increased the number of bike trips.
 
-### Popular Stations and Avg. Trip Duration by Age
+### Popular Stations and Average Trip Duration by Age
 
 ![third_storypage](./Images/third_storypage.png)
 
-- Popular Start and Ending Points 
-    - The most popular starting points are concentrated on the same part on Manhattan, which might be due to the amount of public transportation in the area and probably it is also touristy. 
+- Popular Startind and Ending Points 
+    - The most popular starting points are concentrated on the same part on Manhattan, which might be due to the amount of public transportation in the area. Another factor that could be contributing is that the area might be touristy.
     - Top ending stations are located in the same area.
 
 - Avg. Trip Duration Chart:
